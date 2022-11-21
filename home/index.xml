@@ -51,6 +51,7 @@ Placas de vídeo
 Input/output -&amp;gt; Periféricos
 Painel frontal/ auxiliar
 Leds indicadores ou decorativos
+ Gabinete -&amp;gt; Explorado mais a frente na aula
  </description>
     </item>
     
@@ -73,6 +74,28 @@ Botão on-off/ Teclado
 Monitor
 Leds indicadores
  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/iem-aula01/home/04_painel_frontal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/iem-aula01/home/04_painel_frontal/</guid>
+      <description>Painel frontal  Componentes  Componentes do painel frontal  USBs Saída para fone de ouvido Entrada para microfone Botões (ligar/desligar + reset) Luzes indicadoras Drive de cd/DVD/Bluray HD externo Mostrador de temperatura Controladores de FAN     Conexões   Conexões - Memória secundária
+ SATA -&amp;gt; Placa mãe Cabo de energia -&amp;gt; Fonte    USB
+ Diferenças entre tipos de USB (versões)     Teoria Leds/botões   Funcionamento dos LEDS</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/iem-aula01/home/05_praticas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/iem-aula01/home/05_praticas/</guid>
+      <description>Prática  Início: Análise do manual da placa-mãe
+INSERIR LINK PARA MANUAL DA PLACA MÃE
+ Inicialização do computador  Entendendo o procedimento de inicialização do computador    Prática 1. Teste do botão    Prática 2. Teste LED    Prática 3. Conexão do painel frontal    Prática 4. Partida no computador sem botão/painel frontal    Prática 5. Teste de fonte (básico)    Prática 6.</description>
     </item>
     
   </channel>
