@@ -82,9 +82,7 @@ Leds indicadores
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jp-guimaraes.github.io/iem-aula01/home/04_painel_frontal/</guid>
-      <description>Painel frontal  Componentes  Componentes do painel frontal  USBs Saída para fone de ouvido Entrada para microfone Botões (ligar/desligar + reset) Luzes indicadoras Drive de cd/DVD/Bluray HD externo Mostrador de temperatura Controladores de FAN     Conexões   Conexões - Memória secundária
- SATA -&amp;gt; Placa mãe Cabo de energia -&amp;gt; Fonte    USB
- Diferenças entre tipos de USB (versões)     Teoria Leds/botões   Funcionamento dos LEDS</description>
+      <description>Painel frontal  Componentes  Componentes do painel frontal  USBs Saída para fone de ouvido Entrada para microfone Botões (ligar/desligar + reset) Luzes indicadoras Drive de cd/DVD/Bluray HD externo Mostrador de temperatura Controladores de FAN     Conexões  Conexões - Memória secundária  SATA -&amp;gt; Placa mãe Cabo de energia -&amp;gt; Fonte     USB – USB 1.0 – Taxa de transferência de até 1.</description>
     </item>
     
     <item>
@@ -93,8 +91,9 @@ Leds indicadores
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jp-guimaraes.github.io/iem-aula01/home/05_praticas/</guid>
-      <description>Prática  Início: Análise do manual da placa-mãe
-INSERIR LINK PARA MANUAL DA PLACA MÃE
+      <description>Prática  Início: Análise do manual da placa-mãe Gigabyte GA-B75M-D2V
+Manual completo
+Traduções simplificadas
  Inicialização do computador  Entendendo o procedimento de inicialização do computador    Prática 1. Teste do botão    Prática 2. Teste LED    Prática 3. Conexão do painel frontal    Prática 4. Partida no computador sem botão/painel frontal    Prática 5. Teste de fonte (básico)    Prática 6.</description>
     </item>
     
