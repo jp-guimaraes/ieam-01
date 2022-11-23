@@ -13,8 +13,7 @@
       
       <guid>https://jp-guimaraes.github.io/iem-aula01/home/intro/</guid>
       <description> Objetivos   Rápida revisão sobre conteúdos já vistos (parte teórica)
- Conhecer e reconhecer os componentes internos de computadores modernos do tipo Desktop e Laptop    Retomar prática do painel frontal
- Parte teórica Parte prática     Sumário  Componentes internos e organização de computadores Desktops Laptops Aspectos teóricos relacionados a prática do painel frontal Roteiro - práticas do painel frontal   </description>
+ Conhecer e reconhecer os componentes internos de computadores modernos do tipo Desktop e Laptop     Sumário  Componentes internos e organização de computadores Desktops Laptops   </description>
     </item>
     
     <item>
@@ -74,27 +73,6 @@ Botão on-off/ Teclado
 Monitor
 Leds indicadores
  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jp-guimaraes.github.io/iem-aula01/home/04_painel_frontal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jp-guimaraes.github.io/iem-aula01/home/04_painel_frontal/</guid>
-      <description>Painel frontal  Componentes  Componentes do painel frontal  USBs Saída para fone de ouvido Entrada para microfone Botões (ligar/desligar + reset) Luzes indicadoras Drive de cd/DVD/Bluray HD externo Mostrador de temperatura Controladores de FAN     Conexões  Conexões - Memória secundária  SATA -&amp;gt; Placa mãe Cabo de energia -&amp;gt; Fonte     USB – USB 1.0 – Taxa de transferência de até 1.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jp-guimaraes.github.io/iem-aula01/home/05_praticas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jp-guimaraes.github.io/iem-aula01/home/05_praticas/</guid>
-      <description>Prática  Início: Análise do manual da placa-mãe Gigabyte GA-B75M-D2V
-Manual completo
-Traduções simplificadas
- Inicialização do computador  Entendendo o procedimento de inicialização do computador    Prática 1. Teste do botão    Prática 2. Teste LED    Prática 3. Conexão do painel frontal    Prática 4. Partida no computador sem botão/painel frontal    Prática 5. Teste de fonte (básico)    Prática 6.</description>
     </item>
     
   </channel>
