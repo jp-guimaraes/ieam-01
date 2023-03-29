@@ -1,78 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Aula 01</title>
-    <link>https://jp-guimaraes.github.io/iem-aula01/home/</link>
-    <description>Recent content in Homes on Aula 01</description>
+    <title>Homes on Fontes</title>
+    <link>https://github.com/jp-guimaraes/iem-aula01/home/</link>
+    <description>Recent content in Homes on Fontes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://jp-guimaraes.github.io/iem-aula01/home/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://github.com/jp-guimaraes/iem-aula01/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://jp-guimaraes.github.io/iem-aula01/home/intro/</link>
+      <link>https://github.com/jp-guimaraes/iem-aula01/home/intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jp-guimaraes.github.io/iem-aula01/home/intro/</guid>
-      <description> Objetivos   Rápida revisão sobre conteúdos já vistos (parte teórica)
- Conhecer e reconhecer os componentes internos de computadores modernos do tipo Desktop e Laptop     Sumário  Componentes internos e organização de computadores Desktops Laptops   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jp-guimaraes.github.io/iem-aula01/home/01_componentes-organizacao/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jp-guimaraes.github.io/iem-aula01/home/01_componentes-organizacao/</guid>
-      <description>Componentes internos de um computador?  Qual computador? Qual arquitetura? Qual organização?
-  Qual arquitetura/organização?  Foco inicial: Laptops/desktops modernos (x86/64)
- Relembrando Componente principais (teóricos):
- Dispositivos de entrada/saída Armazenamento (memória(s)) Processamento (Processador(es))   Quiz Quais os dispositivos físicos necessários para implementação desses conceitos?
-  Processador Processador(es)?
- CPU -&amp;gt; Processador
-GPU -&amp;gt; Processamento dedicado (vídeo)
- Memória Memória(s)?
- Memórias  Dispositivos de entrada e saída  teclado mouse touchpad caixas de som Monitores Impressoras Tela sensível ao toque   Interconexões Barramentos</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jp-guimaraes.github.io/iem-aula01/home/02_desktops/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jp-guimaraes.github.io/iem-aula01/home/02_desktops/</guid>
-      <description> Desktop Quais os componentes internos de um Desktop?
- Componentes Alimentação: Fonte de energia
-Memória primária: memória RAM
-Memória secundária: HD,SSD
-Processador
-Barramentos: Placa-mãe
-Refrigeração: Cooler do processador, ventoinhas diversas
-Placas de vídeo
-Input/output -&amp;gt; Periféricos
-Painel frontal/ auxiliar
-Leds indicadores ou decorativos
- Gabinete -&amp;gt; Explorado mais a frente na aula
+      <guid>https://github.com/jp-guimaraes/iem-aula01/home/intro/</guid>
+      <description> Objetivos Entender o conceito de computador, computação, informática
+Conhecer a evolução histórica relacioada ao computador
+Conhecer os componentes básicos do computador
  </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jp-guimaraes.github.io/iem-aula01/home/03_laptops/</link>
+      <link>https://github.com/jp-guimaraes/iem-aula01/home/evolucao-historica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jp-guimaraes.github.io/iem-aula01/home/03_laptops/</guid>
-      <description> Laptops Quais os componentes internos de um laptop? No que eles diferem de um Desktop?
- Componentes Alimentação: (fonte externa) -&amp;gt; Bateria
-Memória primária: memória RAM (soldada ou removível)
-Memória secundária: HD,SSD
-Processador
-Barramentos: Placa-mãe
-Refrigeração: Cooler do processador, ventoinhas diversas
-Placas de vídeo
-Input/output
-Botão on-off/ Teclado
-Monitor
-Leds indicadores
+      <guid>https://github.com/jp-guimaraes/iem-aula01/home/evolucao-historica/</guid>
+      <description>Evolução histórica  Notícias de ontem  Notícia trata de uma montagem
+ Opiniões  &amp;ldquo;No futuro, os computadores não pesarão mais do que 1,5 tonelada&amp;rdquo;
+ Popular Mechanics, prevendo a evolução da ciência, 1949
+  &amp;ldquo;Penso que há talvez no mundo um mercado para 5 computadores&amp;rdquo;
+ Thomas Watson, presidente da IBM, 1943
+  &amp;ldquo;Viajei por todos os lados neste país, e posso assegurar-lhes que processamento de dados é uma ilusão que não perdura até o fim do ano&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://github.com/jp-guimaraes/iem-aula01/home/computador/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/jp-guimaraes/iem-aula01/home/computador/</guid>
+      <description>Computador?  Pergunta Qual a diferença entre uma máquina de calcular e um computador?
+ Definição do dicionário de Oxford:
+ o que computa; calculador, calculista. (no contexto de informática) máquina destinada ao processamento de dados, capaz de obedecer a instruções que visam produzir certas transformações nesses dados para alcançar um fim determinado.   Alan Touring
+O jogo da imitação
+ John von Neumann
+A era do computador</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://github.com/jp-guimaraes/iem-aula01/home/hardware-software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/jp-guimaraes/iem-aula01/home/hardware-software/</guid>
+      <description>Voltando a definição de de Tanenbaum:
+&amp;ldquo;Um computador digital é uma máquina que pode resolver problemas para as pessoas, executando instruções que lhe são dadas&amp;rdquo;
+ Hardware x Software  Hardware  Software  Sistema Computacional   Hardware
+  Software
+  Pessoas
+   (Mais uma vez) voltando a definição de de Tanenbaum:
+&amp;ldquo;Um computador digital é uma máquina que pode resolver problemas para as pessoas, executando instruções que lhe são dadas&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://github.com/jp-guimaraes/iem-aula01/home/04-processador/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/jp-guimaraes/iem-aula01/home/04-processador/</guid>
+      <description> Processador   Como são fabricados?
+Vídeo recomendado
  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://github.com/jp-guimaraes/iem-aula01/home/05-memorias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/jp-guimaraes/iem-aula01/home/05-memorias/</guid>
+      <description> Memórias Características: Velocidade x Custo x Quantidade X Volatilidade
+Tipos de memórias: Cache, Primária, Secundária
+ Hierarquia de memórias  Memória Primária  Memória secundária   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://github.com/jp-guimaraes/iem-aula01/home/06-outros/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/jp-guimaraes/iem-aula01/home/06-outros/</guid>
+      <description> Entrada/saída Dispositivos de entrada: Teclado/mouse/touchpad/microfone/etc Dispositivos de saída: Monitor/Caixas de som/Impressora/etc Dispositivos híbridos: Tela sensível ao toque/Placa de rede/etc
+ Placa mãe  IO - Placa mãe  </description>
     </item>
     
   </channel>
