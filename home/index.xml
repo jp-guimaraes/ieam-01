@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Fontes</title>
-    <link>https://github.com/jp-guimaraes/iem-aula01/home/</link>
+    <link>https://jp-guimaraes.github.io/iem-aula01/home/</link>
     <description>Recent content in Homes on Fontes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://github.com/jp-guimaraes/iem-aula01/home/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://jp-guimaraes.github.io/iem-aula01/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://github.com/jp-guimaraes/iem-aula01/home/intro/</link>
+      <link>https://jp-guimaraes.github.io/iem-aula01/home/intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/jp-guimaraes/iem-aula01/home/intro/</guid>
+      <guid>https://jp-guimaraes.github.io/iem-aula01/home/intro/</guid>
       <description> Objetivos Entender o conceito de computador, computação, informática
 Conhecer a evolução histórica relacioada ao computador
 Conhecer os componentes básicos do computador
@@ -20,10 +20,10 @@ Conhecer os componentes básicos do computador
     
     <item>
       <title></title>
-      <link>https://github.com/jp-guimaraes/iem-aula01/home/evolucao-historica/</link>
+      <link>https://jp-guimaraes.github.io/iem-aula01/home/evolucao-historica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/jp-guimaraes/iem-aula01/home/evolucao-historica/</guid>
+      <guid>https://jp-guimaraes.github.io/iem-aula01/home/evolucao-historica/</guid>
       <description>Evolução histórica  Notícias de ontem  Notícia trata de uma montagem
  Opiniões  &amp;ldquo;No futuro, os computadores não pesarão mais do que 1,5 tonelada&amp;rdquo;
  Popular Mechanics, prevendo a evolução da ciência, 1949
@@ -34,10 +34,10 @@ Conhecer os componentes básicos do computador
     
     <item>
       <title></title>
-      <link>https://github.com/jp-guimaraes/iem-aula01/home/computador/</link>
+      <link>https://jp-guimaraes.github.io/iem-aula01/home/computador/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/jp-guimaraes/iem-aula01/home/computador/</guid>
+      <guid>https://jp-guimaraes.github.io/iem-aula01/home/computador/</guid>
       <description>Computador?  Pergunta Qual a diferença entre uma máquina de calcular e um computador?
  Definição do dicionário de Oxford:
  o que computa; calculador, calculista. (no contexto de informática) máquina destinada ao processamento de dados, capaz de obedecer a instruções que visam produzir certas transformações nesses dados para alcançar um fim determinado.   Alan Touring
@@ -48,10 +48,10 @@ A era do computador</description>
     
     <item>
       <title></title>
-      <link>https://github.com/jp-guimaraes/iem-aula01/home/hardware-software/</link>
+      <link>https://jp-guimaraes.github.io/iem-aula01/home/hardware-software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/jp-guimaraes/iem-aula01/home/hardware-software/</guid>
+      <guid>https://jp-guimaraes.github.io/iem-aula01/home/hardware-software/</guid>
       <description>Voltando a definição de de Tanenbaum:
 &amp;ldquo;Um computador digital é uma máquina que pode resolver problemas para as pessoas, executando instruções que lhe são dadas&amp;rdquo;
  Hardware x Software  Hardware  Software  Sistema Computacional   Hardware
@@ -63,10 +63,10 @@ A era do computador</description>
     
     <item>
       <title></title>
-      <link>https://github.com/jp-guimaraes/iem-aula01/home/04-processador/</link>
+      <link>https://jp-guimaraes.github.io/iem-aula01/home/04-processador/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/jp-guimaraes/iem-aula01/home/04-processador/</guid>
+      <guid>https://jp-guimaraes.github.io/iem-aula01/home/04-processador/</guid>
       <description> Processador   Como são fabricados?
 Vídeo recomendado
  </description>
@@ -74,10 +74,10 @@ Vídeo recomendado
     
     <item>
       <title></title>
-      <link>https://github.com/jp-guimaraes/iem-aula01/home/05-memorias/</link>
+      <link>https://jp-guimaraes.github.io/iem-aula01/home/05-memorias/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/jp-guimaraes/iem-aula01/home/05-memorias/</guid>
+      <guid>https://jp-guimaraes.github.io/iem-aula01/home/05-memorias/</guid>
       <description> Memórias Características: Velocidade x Custo x Quantidade X Volatilidade
 Tipos de memórias: Cache, Primária, Secundária
  Hierarquia de memórias  Memória Primária  Memória secundária   </description>
@@ -85,10 +85,10 @@ Tipos de memórias: Cache, Primária, Secundária
     
     <item>
       <title></title>
-      <link>https://github.com/jp-guimaraes/iem-aula01/home/06-outros/</link>
+      <link>https://jp-guimaraes.github.io/iem-aula01/home/06-outros/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/jp-guimaraes/iem-aula01/home/06-outros/</guid>
+      <guid>https://jp-guimaraes.github.io/iem-aula01/home/06-outros/</guid>
       <description> Entrada/saída Dispositivos de entrada: Teclado/mouse/touchpad/microfone/etc Dispositivos de saída: Monitor/Caixas de som/Impressora/etc Dispositivos híbridos: Tela sensível ao toque/Placa de rede/etc
  Placa mãe  IO - Placa mãe  </description>
     </item>
